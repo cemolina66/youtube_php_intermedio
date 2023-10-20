@@ -1,3 +1,3 @@
-# Curso de integración de PHP con HTML
+# Curso de php intermedio
 
 - Espero que el curso les sea de utilidad 🤙🏼
